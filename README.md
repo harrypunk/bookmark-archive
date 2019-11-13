@@ -23,6 +23,8 @@
 [How to write a game in Haskell from scratch][morg]
 - Parametric Press  
 [Unraveling the JPEG][ujpg]
+- iOS Hacking  
+[GeoSn0w][geo]
 
 
 
@@ -38,3 +40,4 @@
 [logr]:https://simplectic.com/blog/2015/ramda-transducers-logs/
 [morg]:https://morgenthum.tech/articles/write-haskell-game
 [ujpg]:https://parametric.press/issue-01/unraveling-the-jpeg/
+[geo]:https://geosn0w.github.io/
