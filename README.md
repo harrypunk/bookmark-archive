@@ -27,6 +27,8 @@
 [GeoSn0w][geo]
 - kleisli.io  
 [Monad Transformers vs. MTL][klei]
+- ocharcles  
+[GHC Extensions: Record Wildcards][ocharles]
 
 
 [pduff]:http://ssp.impulsetrain.com/porterduff.html
@@ -43,3 +45,4 @@
 [ujpg]:https://parametric.press/issue-01/unraveling-the-jpeg/
 [geo]:https://geosn0w.github.io/
 [klei]:https://kleisli.io/monad-transformers-vs-mtl/
+[ocharles]:https://ocharles.org.uk/posts/2014-12-04-record-wildcards.html
