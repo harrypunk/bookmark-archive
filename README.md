@@ -29,6 +29,8 @@
 [Monad Transformers vs. MTL][klei]
 - ocharcles  
 [GHC Extensions: Record Wildcards][ocharles]
+- LOGOGRAB  
+[Face Your Fears: Part 2 - An Amazonka Tutorial][logograb]
 
 
 [pduff]:http://ssp.impulsetrain.com/porterduff.html
@@ -46,3 +48,4 @@
 [geo]:https://geosn0w.github.io/
 [klei]:https://kleisli.io/monad-transformers-vs-mtl/
 [ocharles]:https://ocharles.org.uk/posts/2014-12-04-record-wildcards.html
+[logograb]:https://blog.logograb.com/face-your-fears-an-amazonka-tutorial/
