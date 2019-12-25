@@ -31,7 +31,8 @@
 [GHC Extensions: Record Wildcards][ocharles]
 - LOGOGRAB  
 [Face Your Fears: Part 2 - An Amazonka Tutorial][logograb]
-
+- Tooploox  
+[AWS Lambda Custom Runtimes with Haskell][tooploox-hs]
 
 [pduff]:http://ssp.impulsetrain.com/porterduff.html
 [lazyimg]:https://css-tricks.com/the-complete-guide-to-lazy-loading-images/
@@ -49,3 +50,4 @@
 [klei]:https://kleisli.io/monad-transformers-vs-mtl/
 [ocharles]:https://ocharles.org.uk/posts/2014-12-04-record-wildcards.html
 [logograb]:https://blog.logograb.com/face-your-fears-an-amazonka-tutorial/
+[tooploox-hs]:https://www.tooploox.com/blog/aws-lambda-custom-runtimes-with-haskell
