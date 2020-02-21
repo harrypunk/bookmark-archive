@@ -1,6 +1,6 @@
 ### Tech 2  
 1. Generate Soft_UI css code  
-[Neumorphism.io][Neumorphism.io]  
+[Neumorphism.io](Neumorphism.io)  
 2. Git Show  
 [Atlassian tutorial][gitshow]
 3. CloudFormation Mapping and Conditionals: Making Your Templates More Universal  
