@@ -17,7 +17,8 @@
 [romejs.dev](romejs.dev)
 9. itmeo gradients
 [webgradients.com/](https://webgradients.com/)
-
+10. Create a Basic Android App without an IDE
+[okta][okta1]
 
 
 
@@ -28,3 +29,5 @@
 [cldf]:https://www.singlestoneconsulting.com/blog/cloudformation-mapping-and-conditionals-making-your-templates-more-universal/
 [lnkbtn]:https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 [cssvp]:https://ishadeed.com/article/viewport-units/
+[okta1]:https://developer.okta.com/blog/2018/08/10/basic-android-without-an-ide
+
