@@ -21,6 +21,7 @@
 [okta][okta1]
 11. Podcast RSS Feed Template
 [jackbarber][podcastrss]
+[Apple help][applerss]
 
 
 
@@ -33,3 +34,4 @@
 [cssvp]:https://ishadeed.com/article/viewport-units/
 [okta1]:https://developer.okta.com/blog/2018/08/10/basic-android-without-an-ide
 [podcastrss]:https://jackbarber.co.uk/blog/2017-02-14-podcast-rss-feed-template
+[applerss]:https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
