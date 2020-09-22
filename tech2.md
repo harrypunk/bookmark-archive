@@ -19,6 +19,8 @@
 [webgradients.com/](https://webgradients.com/)
 10. Create a Basic Android App without an IDE
 [okta][okta1]
+11. Podcast RSS Feed Template
+[jackbarber][podcastrss]
 
 
 
@@ -30,4 +32,4 @@
 [lnkbtn]:https://css-tricks.com/a-complete-guide-to-links-and-buttons/
 [cssvp]:https://ishadeed.com/article/viewport-units/
 [okta1]:https://developer.okta.com/blog/2018/08/10/basic-android-without-an-ide
-
+[podcastrss]:https://jackbarber.co.uk/blog/2017-02-14-podcast-rss-feed-template
