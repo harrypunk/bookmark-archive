@@ -22,6 +22,8 @@
 11. Podcast RSS Feed Template
 [jackbarber][podcastrss]
 [Apple help][applerss]
+12. RxJS, where is the If-Else Operator?  
+[Nathaniel Kessler][rxjsifelse]
 
 
 
@@ -35,3 +37,4 @@
 [okta1]:https://developer.okta.com/blog/2018/08/10/basic-android-without-an-ide
 [podcastrss]:https://jackbarber.co.uk/blog/2017-02-14-podcast-rss-feed-template
 [applerss]:https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
+[rxjsifelse]:https://rangle.io/blog/rxjs-where-is-the-if-else-operator/
