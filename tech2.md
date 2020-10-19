@@ -24,6 +24,8 @@
 [Apple help][applerss]
 12. RxJS, where is the If-Else Operator?  
 [Nathaniel Kessler][rxjsifelse]
+13. Totally static Go builds  
+[Will Rouesnel][staticgo]
 
 
 
@@ -38,3 +40,4 @@
 [podcastrss]:https://jackbarber.co.uk/blog/2017-02-14-podcast-rss-feed-template
 [applerss]:https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
 [rxjsifelse]:https://rangle.io/blog/rxjs-where-is-the-if-else-operator/
+[staticgo]:http://blog.wrouesnel.com/articles/Totally%20static%20Go%20builds/
