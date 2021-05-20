@@ -9,14 +9,14 @@
 [CSS-TRICKS][lnkbtn]
 5. CSS Viewport Units
 [Ahmad Shadeed][cssvp]
-6. Programiz (languages tutorials)
-[Programiz][www.programiz.com]
+6. Programiz
+[Programiz](https://www.programiz.com)
 7. Webdriver io
 [webdriver.io](webdriver.io)
 8. Facebook Rome Toolchain
 [romejs.dev](romejs.dev)
 9. itmeo gradients
-[webgradients.com/](https://webgradients.com/)
+[webgradients.com](https://webgradients.com/)
 10. Create a Basic Android App without an IDE
 [okta][okta1]
 11. Podcast RSS Feed Template
@@ -26,6 +26,8 @@
 [Nathaniel Kessler][rxjsifelse]
 13. Totally static Go builds  
 [Will Rouesnel][staticgo]
+14. Distributed Hash Tables with Kademlia (stanford)  
+[Code the change][kadem]
 
 
 
@@ -41,3 +43,4 @@
 [applerss]:https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
 [rxjsifelse]:https://rangle.io/blog/rxjs-where-is-the-if-else-operator/
 [staticgo]:http://blog.wrouesnel.com/articles/Totally%20static%20Go%20builds/
+[kadem]:https://codethechange.stanford.edu/guides/guide_kademlia.html
